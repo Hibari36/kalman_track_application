@@ -4,5 +4,5 @@ GPS轨迹数据中仅包含位置信息，假设信号包含位置信息与速�
 则信号模型为：
 ![image](https://github.com/Hibari36/kalman_track_application/blob/master/figure/%E4%BF%A1%E5%8F%B7%E6%A8%A1%E5%9E%8B.png)
 观测模型为：
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image](https://github.com/Hibari36/kalman_track_application/blob/master/figure/%E8%A7%82%E6%B5%8B%E6%A8%A1%E5%9E%8B.png)
 后续懒得写了。。。
